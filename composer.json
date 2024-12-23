@@ -1,0 +1,19 @@
+{
+    "name": "yewujiu/demo-composer",
+    "description": "s test",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yewujiu\\DemoComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yewujiu",
+            "email": "2970733090@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
